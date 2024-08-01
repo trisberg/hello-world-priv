@@ -4,7 +4,7 @@ metadata:
   name: hello-world
 spec:
   git:
-    url: https://github.com/trisberg/hello-world-acc.git
+    url: https://github.com/trisberg/hello-world-priv.git
     ref:
       branch: accv2
   title: A Hello World App
